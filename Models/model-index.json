@@ -1817,6 +1817,15 @@
     }
   },
   {
+    "label": "Traffic Cone",
+    "name": "TrafficCone",
+    "screenshot": "screenshot/screenshot.jpg",
+    "tags": ["extension"],
+    "variants": {
+      "glTF": "TrafficCone.gltf"
+    }
+  },
+  {
     "label": "Transmission Order Test",
     "name": "TransmissionOrderTest",
     "screenshot": "screenshot/screenshot.jpg",
