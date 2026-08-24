@@ -817,6 +817,12 @@ SPDX-FileCopyrightText = "2020 Public"
 SPDX-License-Identifier = "CC0-1.0"
 
 [[annotations]]
+path = "Models/TrafficCone/*"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2024 hinndia"
+SPDX-License-Identifier = "CC-BY-4.0"
+
+[[annotations]]
 path = "Models/TransmissionOrderTest/*"
 precedence = "aggregate"
 SPDX-FileCopyrightText = [ "2025 Public", "2021 Public" ]

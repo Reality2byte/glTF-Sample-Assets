@@ -18,7 +18,7 @@ A traffic cone demonstrating the KHR_materials_retroreflection extension, which 
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/TrafficCone/glTF/TrafficCone.gltf) in SampleViewer
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/TrafficCone/glTF/TrafficCone.gltf) in SampleViewer
 * [Model Directory](./)
 
 ## Screenshot
@@ -55,9 +55,10 @@ For this reason the reflective tape is given an elevated dielectric reflectance 
 The scene is lit by a single `KHR_lights_punctual` point light placed just in front of the cones, near the camera. Retroreflection peaks when the light and view directions are aligned, so this headlight-like placement is what makes the bands light up — move the light away from the camera and the effect fades.
 
 
+
 ## Legal
 
-&copy; 2024, hinndia. [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2024, hinndia. [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
  - hinndia for Everything
 
