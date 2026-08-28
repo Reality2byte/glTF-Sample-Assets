@@ -153,7 +153,7 @@ The following licenses are currently supported. Their 'SPDX identifier' can be u
 | CC0-1.0 | Creative Commons Zero v1.0 Universal | https://creativecommons.org/publicdomain/zero/1.0/legalcode |
 | CC-BY-4.0 | Creative Commons Attribution 4.0 International | https://creativecommons.org/licenses/by/4.0/legalcode |
 | CC-BY-NC-4.0 | Creative Commons Attribution Non Commercial 4.0 International | https://creativecommons.org/licenses/by-nc/4.0/legalcode |
-| CC-BY-NC-SA-4.0 | Creative Commons, Attribution-NonCommercial-ShareAlike 4.0 International | https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode |
+| CC-BY-NC-SA-4.0 | Creative Commons Attribution Non Commercial Share Alike 4.0 International | https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode |
 
 
 ## Appendix B: AI-Assisted Contributions
