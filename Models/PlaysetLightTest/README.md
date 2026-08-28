@@ -54,7 +54,7 @@ The IKEA 3D Model [PlaysetLightTest.glb] (the “Licensed Material”) is licens
 
 ## Legal
 
-&copy; 2024, Inter IKEA Systems B.V.. [Creative Commons, Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+&copy; 2024, Inter IKEA Systems B.V.. [Creative Commons Attribution Non Commercial Share Alike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
  - Inter IKEA Systems B.V. for Everything
 
