@@ -4,7 +4,7 @@
 
 ## Tags
 
-[core](../Models-core.md), [showcase](../Models-showcase.md), [testing](../Models-testing.md)
+[showcase](../Models-showcase.md), [testing](../Models-testing.md)
 
 ## Extensions Used
 
